@@ -3,9 +3,9 @@ layout: tutorial_page
 permalink: /RNAseq_laptop_setup_instructions
 title: RNAseq
 header1: Workshop Pages for Students
-header2: Informatics for RNAseq Analysis 2019
+header2: Informatics for RNAseq Analysis 2020
 image: /site_images/CBW_RNA_seq_icon.jpg
-home: https://bioinformaticsdotca.github.io/RNAseq_2019
+home: https://bioinformaticsdotca.github.io/RNAseq_2020
 ---
 
 1) Install latest version of R which can be downloaded from http://probability.ca/cran/.
@@ -33,26 +33,13 @@ If you are unsure which version you have installed, open R and at the '>' prompt
 version
 ```
 
-3) A robust text editor.   
+3) Java -The visualization program that we will be using (IGV) requires Java. Check if you have Java installed: https://www.java.com/verify/ and download Java 11 if you do not have it installed.
 
-* For Windows/PC - [notepad++](http://notepad-plus-plus.org/)  
-* For Linux - [gEdit](http://projects.gnome.org/gedit/)  
-* For Mac – [TextWrangler](http://www.barebones.com/products/textwrangler/download.html)
+4) Integrative Genomics Viewer 2.8.3 (IGV) - Once java is installed, go to http://www.broadinstitute.org/igv/ and register in order to get access to the downloads page. Once you have gained access to the download page, click on the appropriate launch button that matches your computer's operating system   
 
-4) A file decompression tool.  
+5) SSH client - Mac and Linux users already have a command line ssh program that can be run from the terminal. For Windows users, please download [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).  
 
-* For Windows/PC – [7zip](http://www.7-zip.org/).  
-* For Linux – [gzip](http://www.gzip.org).   
-* For Mac – already there.
+6). Loupe browser ...
 
-5) A robust internet browser such as Firefox or Safari (Internet Explorer and Chrome are not recommended because of Java issues).
+7.) scRNA example loupe files ..
 
-6) Java -The visualization program that we will be using (IGV) requires Java. Check if you have Java installed: https://www.java.com/verify/ and download Java if you do not have it installed (You need Java 8. Do NOT install Java 10).
-
-7) Integrative Genomics Viewer 2.4 (IGV) - Once java is installed, go to http://www.broadinstitute.org/igv/ and register in order to get access to the downloads page. Once you have gained access to the download page, click on the appropriate launch button that matches your computer's operating system   
-
-8) SSH client - Mac and Linux users already have a command line ssh program that can be run from the terminal. For Windows users, please download [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).  
-
-9) SCP/SFTP client - We will be moving data from the servers to the student laptops for visualization. Mac and Linux users already have a command line scp and sftp program. For Windows users, please install [WinSCP](http://winscp.net/eng/download.php).
-
-10) A PDF viewer (Adobe Acrobat or equivalent).

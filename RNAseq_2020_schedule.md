@@ -1,16 +1,18 @@
 ---
 layout: tutorial_page
-permalink: /RNAseq_2019_schedule
+permalink: /RNAseq_2020_schedule
 title: RNA-Seq
 header1: Workshop Pages for Students
-header2: Informatics for RNA-Seq Analysis 2019
+header2: Informatics for RNA-Seq Analysis 2020
 image: /site_images/CBW_RNA_seq_icon.jpg
-home: https://bioinformaticsdotca.github.io/RNAseq_2019
+home: https://bioinformaticsdotca.github.io/RNAseq_2020
 ---
+
+Each day runs from 10:00 AM Eastern to 8:00 PM Eastern
 
 | | **Day 1** | | **Day 2** | | **Day 3** |  
 | :---: | :---: | :---: | :---: |:---: | :---: |  
-| | **Tuesday, June 11** | | **Wednesday, June 12** | | **Thursday, June 13** |  
+| | **Tuesday, June 17** | | **Wednesday, June 17** | | **Thursday, June 19** |  
 | 8:00 | <font color="green">*Registration and Breakfast*</font> | 8:00 | <font color="green">*Breakfast*</font> | 8:00 | <font color="green">*Breakfast*</font> |  
 | 8:30 | <font color="purple">Welcome (Michelle)</font> | 8:30 | <font color="purple">Module 4: Expression and Differential Expression (Obi)</font> | 8:30 | <font color="purple">Module 7: Genome Guided and Genome-Free Transcriptome Assembly  (Brian)</font> |   
 | 9:00 | <font color="purple">Module 1: Introduction to Cloud Computing (Malachi)</font> | | | | |  

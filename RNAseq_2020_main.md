@@ -1,26 +1,25 @@
 ---
 layout: workshop_main_3day
-permalink: /RNAseq_2019
+permalink: /RNAseq_2020
 title: RNA-Seq
 header1: Workshop Pages for Students
-header2: Informatics for RNA-Seq Analysis 2019
+header2: Informatics for RNA-Seq Analysis 2020
 image: /site_images/CBW_RNA_seq_icon.jpg
 keywords: RNA-seq data, differential expression analysis, assemble transcripts
 description: Course providing an introduction to RNA-seq data analysis followed by integrated tutorials demonstrating the use of popular RNA-seq analysis packages.
-instructors: Malachi Griffith, Obi Griffith, Brian Haas, Kelsy Cotto, Megan Richters
+instructors: Malachi Griffith, Obi Griffith, Allegra Petti, Kelsy Cotto, Huiming  Xia, Saad Khan
 length: 3 days
 ---
 # Welcome <a id="welcome"></a>
 
-Welcome to Informatics for RNA-Seq Analysis 2019.
+Welcome to Informatics for RNA-Seq Analysis 2020.
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2019_schedule).    
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2020_schedule).    
 
-Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1da3JtuTFxNUfZJPxG19fGt5S_rmSnHel/view?usp=sharing)    
+Meet your faculty (commin soon)
 
-We are using Slack for discussion. Join the Slack channel.
 
-**CLASS MATERIALS:** The full course notes are available as a [single PDF](https://drive.google.com/a/bioinformatics.ca/file/d/1-N0vMH4-AzfyYrmogRDvQOkf_3dFa2DH/view?usp=sharing).  
+**CLASS MATERIALS:** 
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
@@ -30,15 +29,14 @@ Instructions to setup your laptop can be found [here](https://bioinformaticsdotc
 
 ## Pre-workshop Tutorials
 
-Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/RNAseq_2019_prework).  
+Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/RNAseq_2020_prework).  
+
 It is in your best interest to complete these before the workshop.
 
 ***
 
 # Class Photo
  
-<img src="https://github.com/bioinformaticsdotca/RNAseq_2019/blob/master/ClassPhoto_RNAseq2019.jpg?raw=true" alt="Class Photo" width="750" />
-
 ***
 
 # Day 1 <a id="day1"></a>
@@ -47,7 +45,7 @@ It is in your best interest to complete these before the workshop.
 
 ##  Welcome 
 
-  *<font color="#827e9c">Michelle Brazas</font>* 
+  *<font color="#827e9c">Rachade Hmamouchi</font>* 
 
 ## Module 1: Introduction to Cloud Computing
 

@@ -20,19 +20,6 @@ library(BiocManager);
 BiocManager::install();
 ```
 
-If you already have an older version of R installed (3.4.4 or lower), open R and at the '>' prompt, paste the commands:
-
-```
-source("http://bioconductor.org/biocLite.R");
-biocLite();
-```
-
-If you are unsure which version you have installed, open R and at the '>' prompt, enter the command:
-
-```
-version
-```
-
 4) Install Java. The visualization program that we will be using (IGV) requires Java version 11. First check if you have it installed ([instructions](https://www.java.com/en/download/help/version_manual.xml)). [Install Java 11](https://java.com/en/download/help/download_options.xml) if needed. 
 
 5) Install the Integrative Genomics Viewer 2.8.3 (IGV). Follow the [IGV Install Instructions](http://software.broadinstitute.org/software/igv/download) for your operating system.

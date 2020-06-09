@@ -41,5 +41,5 @@ version
 
 7) Install the Loupe browser.  First go to the [10x download pages](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest). Enter your info and selectthe Loupe Browser 4.0.0 download for your operating system.
 
-8) Download the example scRNA loupe files from our [course server](http://genomedata.org/rnaseq-tutorial/scrna/).
+8) Download all four example scRNA files for a loupe demonstration from our [course server](http://genomedata.org/rnaseq-tutorial/scrna/).
 

@@ -14,7 +14,7 @@ Each day runs from 10:00 AM Eastern to 8:00 PM Eastern
 | :---: | :---: | :---: | :---: |:---: | :---: |  
 | | **Wednesday, June 17** | | **Thursday, June 18** | | **Friday, June 19** |  
 | 10:00 | <font color="green">*Welcome (Rachade)*</font> | 10:00 | <font color="green">*Q & A*</font> | 10:00 | <font color="green">*Q & A*</font> |  
-| 10:30 | <font color="purple">Module 0: Intro to Compute Canada & Setup (Maxime/Obi)</font> | 10:30 | <font color="purple">Module 3: Expression and Differential Expression (Obi)</font> | 10:30 | <font color="purple">Module 5: scRNAseq part I (Allegra)</font> |   
+| 10:30 | <font color="purple">Module 0: Intro to Compute Canada & Setup (Pierre-Olivier/Obi)</font> | 10:30 | <font color="purple">Module 3: Expression and Differential Expression (Obi)</font> | 10:30 | <font color="purple">Module 5: scRNAseq part I (Allegra)</font> |   
 | 11:30 | <font color="green">*Break*</font> | 11:30 | <font color="green">*Break*</font>  | 11:30 | <font color="green">*Break*</font> |  
 | 12:00 | <font color="purple">Module 1: Introduction to RNA Sequencing (Malachi)</font> | 12:00 | <font color="blue">Module 3 Lab (Malachi)</font> | 12:00 | Module 5 Lab (Allegra) |  
 | 1:00  | <font color="green">*Break*</font> | 1:00 |  <font color="green">*Lunch*</font> | 1:00 | <font color="green">*Break*</font> |  

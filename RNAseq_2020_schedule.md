@@ -20,7 +20,7 @@ Each day runs from 10:00 AM Eastern to 8:00 PM Eastern
 | 1:00  | <font color="green">*Break*</font> | 1:00 |  <font color="green">*Lunch*</font> | 1:00 | <font color="green">*Break*</font> |  
 | 2:00  | <font color="blue">Module 1 Lab (Obi)</font> | 2:00 | <font color="blue">Module 3 Lab Cont'd (Obi)</font> | 2:00 | <font color="blue">Module 5 Lab Cont'd (Allegra) |  
 | 3:30  |  <font color="green">*Break*</font> | 3:30 |  <font color="green">*Break*</font> | 3:30 | <font color="green">*Break*</font> |  
-| 4:00  | <font color="purple">Module 2: RNA-Seq Alignment and Visualization (Obi)</font> | 4:00 | <font color="purple">Module 4 Reference Free Alignment (Malachi)</font> | 4:00 | Module 5: scRNAseq part II (Allegra) |  
+| 4:00  | <font color="purple">Module 2: RNA-Seq Alignment and Visualization (Obi)</font> | 4:00 | <font color="purple">Module 4 Alignment Free Expression Estimation (Malachi)</font> | 4:00 | Module 5: scRNAseq part II (Allegra) |  
 | 4:30  |  <font color="blue">Module 2 Lab (Malachi)</font> | 4:30 | <font color="blue">Module 4 Lab (Malachi)</font> | 4:30 | <font color="blue">Module 5 Lab (Allegra)</font> |  
 | 5:30  | <font color="green">*Break*</font> | 5:30 | <font color="green">*Break*</font> | 5:30 | <font color="purple">Survey and Closing Remarks</font> |  
 | 6:30  | **Integrated Assignment** (optional to 8:00) | 6:30 | **Integrated Assignment** (optional to 8:00) | | | 

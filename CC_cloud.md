@@ -1,15 +1,3 @@
----
-layout: workshop_main_3day
-permalink: /RNAseq_2020_CC_cloud
-title: RNA-Seq CC Cloud
-header1: Workshop Pages for Students
-header2: Informatics for RNA-Seq Analysis 2020
-image: /site_images/CBW_RNA_seq_icon.jpg
-keywords: RNA-seq data, differential expression analysis, assemble transcripts
-description: Course providing an introduction to RNA-seq data analysis followed by integrated tutorials demonstrating the use of popular RNA-seq analysis packages.
-instructors: Malachi Griffith, Obi Griffith, Allegra Petti, Kelsy Cotto, Huiming  Xia, Saad Khan
-length: 3 days
----
 # Compute Canada Virtual Cluster
 We have set up a virtual cluster at Compute Canada cloud environment. Each student will have up to 8 cores and 60G memory.
 ## Access the cluster

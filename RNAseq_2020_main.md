@@ -55,7 +55,7 @@ It is in your best interest to complete these before the workshop.
 
 [Updated Lecture on Connecting to AWS](https://drive.google.com/a/bioinformatics.ca/file/d/197ZjfFMPK3Li8pjpOuIg2vNxL60sauO2/view?usp=sharing)   
 
-[Lab Practical: Connecting to the CC Cluster](http://bioinformaticsdotca.github.io/RNAseq_2020_CC_cloud)
+[Lab Practical: Connecting to the CC Cluster](https://github.com/bioinformatics-ca/RNAseq_2020/blob/master/CC_cloud.md)
 
 
 ## Module 2: Introduction to RNA Sequencing Analysis

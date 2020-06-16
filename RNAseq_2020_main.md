@@ -62,7 +62,9 @@ We have set up a virtual cluster at Compute Canada cloud environment [here](http
 *<font color="#827e9c">Malachi Griffith and Obi Griffith</font>* 
 
 [Intro to RNA-seq Lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/full/RNASeq_Module1_IntrotoRNA.pdf)
+
 [FASTA_FASTQ_GTF mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_01_01_FASTA_FASTQ_GTF.pdf)
+
 [Indexing mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_01_02_Indexing.pdf)
 
 ### Module 1 Lab
@@ -86,9 +88,13 @@ We have set up a virtual cluster at Compute Canada cloud environment [here](http
 *<font color="#827e9c">Obi Griffith and Malachi Griffith</font>* 
 
 [Alignment mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_02_01_Alignment.pdf)
+
 [Alignment vs Assembly vs kmer mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_02_02_Alignment_vs_Assembly_vs_Kmer.pdf)
+
 [SAM BAM BED mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_02_03_SAM_BAM_BED.pdf)
+
 [IGV Tutorial lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/full/RNASeq_Module2_IGV_Tutorial_Brief.pdf)
+
 [Alignment QC mini lecture](RNASeq_MiniLecture_02_04_alignmentQC.pdf)
 
 ## Module 2 Lab
@@ -121,8 +127,11 @@ We have set up a virtual cluster at Compute Canada cloud environment [here](http
 *<font color="#827e9c">Obi Griffith and Malachi Griffith</font>* 
 
 [Abundance Estimation mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_03_01_AbundanceEstimation.pdf)
+
 [HTSeq mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_03_02_HTSEQ.pdf)
+
 [Differential Expression mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_03_03_DifferentialExpression.pdf)
+
  
 ## Module 3 Lab
 

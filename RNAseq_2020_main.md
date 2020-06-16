@@ -19,8 +19,6 @@ The course schedule can be found [here](https://bioinformaticsdotca.github.io/RN
 Meet your faculty (coming soon)
 
 
-**CLASS MATERIALS:** 
-
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
 ## Laptop Setup Instructions
@@ -32,6 +30,8 @@ Instructions to setup your laptop can be found [here](https://bioinformaticsdotc
 Pre-readings and pre-work can be found here [here](https://bioinformaticsdotca.github.io/RNAseq_2020_prework).  
 
 It is in your best interest to complete these before the workshop.
+
+
 
 ***
 
@@ -46,6 +46,9 @@ It is in your best interest to complete these before the workshop.
 ##  Welcome 
 
   *<font color="#827e9c">Rachade Hmamouchi</font>* 
+  
+## Compute Canada Virtual Cluster
+We have set up a virtual cluster at Compute Canada cloud environment [here](https://github.com/bioinformatics-ca/RNAseq_2020/blob/master/CC_cloud.md)
 
 ## Module 0: Introduction to Compute Canada & Setup
 

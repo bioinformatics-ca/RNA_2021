@@ -16,7 +16,7 @@ Welcome to Informatics for RNA-Seq Analysis 2020.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2020_schedule).    
 
-Meet your faculty (commin soon)
+Meet your faculty (comming soon)
 
 
 **CLASS MATERIALS:** 
@@ -41,7 +41,7 @@ It is in your best interest to complete these before the workshop.
 
 # Day 1 <a id="day1"></a>
 
-**Day 1 and Day 2 refer to content on [rnabio.org](https://rnabio.org/).**
+**For all days please refer to content on [rnabio.org](https://rnabio.org/).**
 
 ##  Welcome 
 
@@ -183,17 +183,6 @@ For additional resources, tutorials, future directions, and more please refer to
 
 [Lab practical](https://bioinformaticsdotca.github.io/RNAseq_2019_Module8_lab)  
 
-## Post Workshop 
-
-Post workshop content for data sets, AWS image, tools and install instructions can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2019_Post-Workshop)  
-
-***  
-
-## Additional Optional Resources 
-
-[Lecture on Single Cell Seq](https://drive.google.com/a/bioinformatics.ca/file/d/1HLWTC9IL2Fqzzo6wy8QQsWIKuCWr8bZP/view?usp=sharing)
-
-Additional resources can be found on the [RNA-Seq wiki](https://github.com/griffithlab/rnaseq_tutorial/wiki/Resources).
 
 ***
 

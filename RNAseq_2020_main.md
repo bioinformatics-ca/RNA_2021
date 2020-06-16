@@ -55,11 +55,8 @@ It is in your best interest to complete these before the workshop.
 
 [Updated Lecture on Connecting to AWS](https://drive.google.com/a/bioinformatics.ca/file/d/197ZjfFMPK3Li8pjpOuIg2vNxL60sauO2/view?usp=sharing)   
 
-[Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
+[Lab Practical: Connecting to the CC Cluster](http://bioinformaticsdotca.github.io/RNAseq_2020_CC_cloud)
 
-* We have set up instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. The certificates will be uploaded to Slack. If you plan on using Linux or Mac OS X, Please use CBWRNA.pem; Otherwise if you plan on using Windows (with Putty), please use CBWRNA.ppk.
-
-You can also download from here. [Mac/Linux certificate](http://main.oicrcbw.ca/private/CBWRNA.pem), [Windows certificate](http://main.oicrcbw.ca/private/CBWRNA.ppk).  
 
 ## Module 2: Introduction to RNA Sequencing Analysis
 

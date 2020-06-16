@@ -25,7 +25,7 @@ Meet your faculty (commin soon)
 
 ## Laptop Setup Instructions
 
-Instructions to setup your laptop can be found [here](https://bioinformaticsdotca.github.io/RNAseq_laptop_setup_instructions).
+Instructions to setup your laptop can be found [here](https://bioinformaticsdotca.github.io/RNAseq_laptop_setup_instructions_2020).
 
 ## Pre-workshop Tutorials
 

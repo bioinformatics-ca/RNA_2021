@@ -1,6 +1,6 @@
 ---
 layout: tutorial_page
-permalink: /RNAseq_laptop_setup_instructions
+permalink: /RNAseq_laptop_setup_instructions_2020
 title: RNAseq
 header1: Workshop Pages for Students
 header2: Informatics for RNAseq Analysis 2020

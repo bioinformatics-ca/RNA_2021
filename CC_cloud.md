@@ -39,6 +39,7 @@ Compute Canada software stack is mounted on the cluster. It uses limux *module* 
 - module show <module/version>: show the details of the module
 - module load <module/version>: load module for certain version of software
 - module unload <module/version>: remove the module settings from system
+- module list: show the modules already loaded
 
 ## Jupyter Hub
 

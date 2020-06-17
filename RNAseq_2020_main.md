@@ -16,8 +16,7 @@ Welcome to Informatics for RNA-Seq Analysis 2020.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNAseq_2020_schedule).    
 
-Meet your faculty (coming soon)
-
+Meet your faculty [here](https://drive.google.com/open?id=1QaYY76MnLdItCwk27n_uwBZyYGYg0QYo)
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
@@ -36,6 +35,8 @@ It is in your best interest to complete these before the workshop.
 ***
 
 # Class Photo
+
+comming soon
  
 ***
 

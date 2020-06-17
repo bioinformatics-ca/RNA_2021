@@ -17,7 +17,7 @@ Each day runs from 10:00 AM Eastern to 8:00 PM Eastern
 | 10:30 | <font color="purple">Module 0: Intro to Compute Canada & Setup (Pierre-Olivier/Obi)</font> | 10:30 | <font color="purple">Module 3: Expression and Differential Expression (Obi)</font> | 10:30 | <font color="purple">Module 5: scRNAseq part I (Allegra)</font> |   
 | 11:30 | <font color="green">*Break*</font> | 11:30 | <font color="green">*Break*</font>  | 11:30 | <font color="green">*Break*</font> |  
 | 12:00 | <font color="purple">Module 1: Introduction to RNA Sequencing (Malachi)</font> | 12:00 | <font color="blue">Module 3 Lab (Malachi)</font> | 12:00 | Module 5 Lab (Allegra) |  
-| 1:00  | <font color="green">*Break*</font> | 1:00 |  <font color="green">*Lunch*</font> | 1:00 | <font color="green">*Break*</font> |  
+| 1:00  | <font color="green">*Break*</font> | 1:00 |  <font color="green">*Break*</font> | 1:00 | <font color="green">*Break*</font> |  
 | 2:00  | <font color="blue">Module 1 Lab (Obi)</font> | 2:00 | <font color="blue">Module 3 Lab Cont'd (Obi)</font> | 2:00 | <font color="blue">Module 5 Lab Cont'd (Allegra) |  
 | 3:30  |  <font color="green">*Break*</font> | 3:30 |  <font color="green">*Break*</font> | 3:30 | <font color="green">*Break*</font> |  
 | 4:00  | <font color="purple">Module 2: RNA-Seq Alignment and Visualization (Obi)</font> | 4:00 | <font color="purple">Module 4 Alignment Free Expression Estimation (Malachi)</font> | 4:00 | Module 5: scRNAseq part II (Allegra) |  

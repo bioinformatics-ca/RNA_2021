@@ -23,7 +23,7 @@ ssh <your username>@login1.CBW.calculquebec.cloud
 After you log into the cluster, you will be on the login node. There are only 2 cores and 2G memory on the login node, so please do NOT run anything here. You can access a compute node with an interactive session using "salloc" command. For example:
 
 ```bash
-salloc --mem 640M -c 1 -t 1:0:0
+salloc --mem 32000M -c 4 -t 8:0:0
 ```
 
 - --mem: the real memory required per node.

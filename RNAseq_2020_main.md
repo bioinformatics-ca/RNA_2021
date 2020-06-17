@@ -47,14 +47,14 @@ It is in your best interest to complete these before the workshop.
 
   *<font color="#827e9c">Rachade Hmamouchi</font>* 
   
-## Compute Canada Virtual Cluster
-We have set up a virtual cluster at Compute Canada cloud environment [here](https://github.com/bioinformatics-ca/RNAseq_2020/blob/master/CC_cloud.md)
 
 ## Module 0: Introduction to Compute Canada & Setup
 
 *<font color="#827e9c">Pierre-Oliver/Obi Griffith</font>* 
 
-[Lab Practical: Connecting to the CC Cluster](https://github.com/bioinformatics-ca/RNAseq_2020/blob/master/CC_cloud.md)
+Compute Canada [Introduction](https://docs.google.com/presentation/d/1XwHh4p19SIb27491hgms-jR67wBjn-K6fTdqqdfUMeU/edit#slide=id.g3461d16a8f_0_11)
+
+Connecting to the CC Cluster [Lab Practical](https://github.com/bioinformatics-ca/RNAseq_2020/blob/master/CC_cloud.md)
 
 
 ## Module 1: Introduction to RNA Sequencing Analysis

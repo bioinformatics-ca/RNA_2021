@@ -162,13 +162,13 @@ Connecting to the CC Cluster [Lab Practical](https://github.com/bioinformatics-c
 
 # Day 3 <a id="day3"></a>
 
-## Module 6: Single-cell RNA-seq
+## Module 5: Single-cell RNA-seq
 
 *<font color="#827e9c">Allegra Petti</font>* 
 
 [Lecture]()  
 
-## Module 6 Lab
+## Module 5 Lab
 
 [Single-cell RNAseq using Seurat](https://rnabio.org/module-08-scrna/0008/02/01/scRNA/)
 

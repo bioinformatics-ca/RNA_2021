@@ -173,9 +173,13 @@ Connecting to the CC Cluster [Lab Practical](https://github.com/bioinformatics-c
 [Single-cell RNAseq using Seurat](https://rnabio.org/module-08-scrna/0008/02/01/scRNA/)
 
 
-## Keeping Up-to-date with RNA-Seq Analysis Developments
+## additional resources
 
-For additional resources, tutorials, future directions, and more please refer to the [rnabio.org](https://rnabio.org/)
+[rnabio.org](https://rnabio.org/)
+
+***
+## Survey 
+
 
 ***
 

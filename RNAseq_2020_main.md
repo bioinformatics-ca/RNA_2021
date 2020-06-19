@@ -183,7 +183,7 @@ Connecting to the CC Cluster [Lab Practical](https://github.com/bioinformatics-c
 ***
 ## Survey 
 
-
+Could you please 2min of your time ? [here](https://forms.gle/N9gLcgxEbjNMFVrf8)
 ***
 
   

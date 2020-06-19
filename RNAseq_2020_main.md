@@ -167,6 +167,7 @@ Connecting to the CC Cluster [Lab Practical](https://github.com/bioinformatics-c
 *<font color="#827e9c">Allegra Petti</font>* 
 
 [Lecture - Part 1](https://github.com/griffithlab/rnabio.org/raw/master/assets/module_8/CBW2020_scRNAseq_1_APetti.pdf)
+
 [Lecture - Part 2](https://github.com/griffithlab/rnabio.org/raw/master/assets/module_8/CBW2020_scRNAseq_2_APetti.pdf)
 
 ## Module 5 Lab

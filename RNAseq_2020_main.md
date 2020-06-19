@@ -35,8 +35,10 @@ It is in your best interest to complete these before the workshop.
 ***
 
 # Class Photo
-<img src="https://github.com/bioinformaticsdotca/RNAseq_2019/blob/master/ClassPhoto_RNAseqClass2020.jpg?raw=true" alt="Class Photo" width="750" />
+
  
+<img src="https://github.com/bioinformatics-ca/RNAseq_2020/blob/master/RNAseqClass2020.jpg?raw=true" alt="Class Photo" width="750" />
+
 ***
 
 # Day 1 <a id="day1"></a>

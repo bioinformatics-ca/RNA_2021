@@ -41,9 +41,9 @@ Meet your faculty [here]
 
 
 
-## Module 1: Introduction to RNA Sequencing Analysis
+## Module 1 - Intro to RNAseq course/concepts
 
-*<font color="#827e9c">Malachi Griffith and Obi Griffith</font>*
+*<font color="#827e9c">Malachi Griffith</font>*
 
 [Intro to RNA-seq Lecture]()
 
@@ -67,9 +67,9 @@ Meet your faculty [here]
   [Data QC]()
 
 
-## Module 2: RNA-seq Alignment and Visualization
+## Module 2 - RNA alignment concepts and file formats
 
-*<font color="#827e9c">Obi Griffith and Malachi Griffith</font>*
+*<font color="#827e9c"> Obi Griffith</font>*
 
 [Alignment mini lecture]()
 
@@ -80,6 +80,13 @@ Meet your faculty [here]
 [IGV Tutorial lecture]()
 
 [Alignment QC mini lecture]()
+
+
+
+***
+
+# Day 2 <a id="day2"></a>
+
 
 ## Module 2 Lab
 
@@ -93,21 +100,19 @@ Meet your faculty [here]
 
   [Alignment QC]()
 
+## Module 3 - RNA Expression and Differential Expression
 
-***
-
-# Day 2 <a id="day2"></a>
-
-
-## Module 3: Expression and Differential Expression
-
-*<font color="#827e9c">Obi Griffith and Malachi Griffith</font>*
+*<font color="#827e9c">Obi Griffith</font>*
 
 [Abundance Estimation mini lecture]()
 
 [HTSeq mini lecture]()
 
 [Differential Expression mini lecture]()
+
+***
+
+# Day 3 <a id="day3"></a>
 
 
 ## Module 3 Lab
@@ -118,7 +123,7 @@ Meet your faculty [here]
 
  [DE Visualization]()
 
-## Module 4: Reference Free Alignment
+## Module 4 - Alignment Free Analysis
 
 *<font color="#827e9c">Malachi Griffith</font>*
 
@@ -126,20 +131,7 @@ Meet your faculty [here]
 
 ## Module 4 Lab
 
- [Kallisto]()
-
-
-***
-
-# Day 3 <a id="day3"></a>
-
-## Module 5:
-
-*<font color="#827e9c"></font>*
-
-[Lecture]()
-
-## Module 5 Lab
+ [lab]()
 
 
 

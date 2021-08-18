@@ -1,2 +1,2 @@
-# RNAseq_2020
-Content for RNAseq 2020 workshop
+# RNA_2021
+Content for RNA 2021 workshop

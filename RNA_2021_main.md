@@ -14,9 +14,9 @@ length: 3 days
 
 Welcome to Informatics for RNA-seq Analysis 2021.
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/RNA_2021_schedule).    
+The course schedule can be found [here](https://docs.google.com/spreadsheets/d/1xrmohlsOm_SMirkIky_VbOTSreYvWEwRh18WetSusYM/edit?usp=sharing).    
 
-Meet your faculty [here]
+Meet your faculty [here] (https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEzGVFexmbCRhbyg/edit?usp=sharing&ouid=117393918154915070147&rtpof=true&sd=true)
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 

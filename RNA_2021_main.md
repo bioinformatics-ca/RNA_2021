@@ -7,7 +7,7 @@ header2: RNA-seq Analysis 2021
 image: /site_images/CBW_RNA_seq_icon.jpg
 keywords: RNA-seq data, differential expression analysis, assemble transcripts
 description: Course providing an introduction to RNA-seq data analysis followed by integrated tutorials demonstrating the use of popular RNA-seq analysis packages.
-instructors: Malachi Griffith, Obi Griffith,
+instructors: Malachi Griffith, Obi Griffith,Huimin Xia, Emma Bell, Felicia Gomez
 length: 3 days
 ---
 # Welcome <a id="welcome"></a>
@@ -45,26 +45,27 @@ Meet your faculty [here]
 
 *<font color="#827e9c">Malachi Griffith</font>*
 
-[Intro to RNA-seq Lecture]()
+[Intro to RNA-seq Lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/full/RNASeq_Module1_IntrotoRNA.pdf))
 
-[FASTA_FASTQ_GTF mini lecture]()
+[FASTA_FASTQ_GTF mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_01_01_FASTA_FASTQ_GTF.pdf)
 
-[Indexing mini lecture]()
+[Indexing mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_01_02_Indexing.pdf)
 
 ### Module 1 Lab
 
 
-  [Installation]()
+  [Installation](https://rnabio.org/module-00-setup/0000/09/01/Installation/)
+  
+  [Reference Genomes](https://rnabio.org/module-01-inputs/0001/02/01/Reference_Genomes/)
+  
+  [Annotations](https://rnabio.org/module-01-inputs/0001/03/01/Annotations/)
+  
+  [Indexing](https://rnabio.org/module-01-inputs/0001/04/01/Indexing/)
+  
+  [Data](https://rnabio.org/module-01-inputs/0001/05/01/RNAseq_Data/)
+  
+  [Data QC](https://rnabio.org/module-01-inputs/0001/06/01/Pre-alignment_QC/)
 
-  [Reference Genomes]()
-
-  [Annotations]()
-
-  [Indexing]()
-
-  [Data]()
-
-  [Data QC]()
 
 
 ## Module 2 - RNA alignment concepts and file formats

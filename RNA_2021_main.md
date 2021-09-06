@@ -45,11 +45,11 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 
 *<font color="#827e9c">Malachi Griffith</font>*
 
-[Intro to RNA-seq Lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/full/RNASeq_Module1_IntrotoRNA.pdf)
+[Intro to RNA-seq Lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/full/RNASeq_Module1_IntrotoRNA.pdf)
 
-[FASTA_FASTQ_GTF mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_01_01_FASTA_FASTQ_GTF.pdf)
+[FASTA_FASTQ_GTF mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_01_01_FASTA_FASTQ_GTF.pdf)
 
-[Indexing mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_01_02_Indexing.pdf)
+[Indexing mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_01_02_Indexing.pdf)
 
 ### Module 1 Lab
 
@@ -72,13 +72,13 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 
 *<font color="#827e9c"> Obi Griffith</font>*
 
-[Alignment mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_02_01_Alignment.pdf)
+[Alignment mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_02_01_Alignment.pdf)
 
-[Alignment vs Assembly vs kmer mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_02_02_Alignment_vs_Assembly_vs_Kmer.pdf)
+[Alignment vs Assembly vs kmer mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_02_02_Alignment_vs_Assembly_vs_Kmer.pdf)
 
-[SAM BAM BED mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_02_03_SAM_BAM_BED.pdf)
+[SAM BAM BED mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_02_03_SAM_BAM_BED.pdf)
 
-[IGV Tutorial lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/full/RNASeq_Module2_IGV_Tutorial_Brief.pdf)
+[IGV Tutorial lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/full/RNASeq_Module2_IGV_Tutorial_Brief.pdf)
 
 [Alignment QC mini lecture](RNASeq_MiniLecture_02_04_alignmentQC.pdf)
 
@@ -104,11 +104,11 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 
 *<font color="#827e9c">Obi Griffith</font>*
 
-[Abundance Estimation mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_03_01_AbundanceEstimation.pdf)
+[Abundance Estimation mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_03_01_AbundanceEstimation.pdf)
 
-[HTSeq mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_03_02_HTSEQ.pdf)
+[HTSeq mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_03_02_HTSEQ.pdf)
 
-[Differential Expression mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_03_03_DifferentialExpression.pdf)
+[Differential Expression mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_03_03_DifferentialExpression.pdf)
 
 ***
 
@@ -127,7 +127,7 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 
 *<font color="#827e9c">Malachi Griffith</font>*
 
-[Alignment Free - Kallisto mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2020/mini/RNASeq_MiniLecture_04_01_AlignmentFreeKallisto.pdf)
+[Alignment Free - Kallisto mini lecture](https://github.com/griffithlab/rnabio.org/blob/master/assets/lectures/cbw/2021/mini/RNASeq_MiniLecture_04_01_AlignmentFreeKallisto.pdf)
 
 ## Module 4 Lab
 

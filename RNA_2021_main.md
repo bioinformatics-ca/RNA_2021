@@ -20,8 +20,7 @@ Meet your faculty [here](https://drive.google.com/file/d/1nFJZjZFbUBJTPZ1yz-M3ph
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
-[RNA PreWork2021](https://docs.google.com/forms/d/1wLMhtCwRnCEfUMIq0f6ZTGZRq1htNYAw4bSMSW9MUfU/edit?usp=sharing)
-
+Pre-work including programs to install can be found [here](https://docs.google.com/forms/d/1wLMhtCwRnCEfUMIq0f6ZTGZRq1htNYAw4bSMSW9MUfU/edit?usp=sharing)
 
 # AWS Module <a id="preworkshop"></a>
 

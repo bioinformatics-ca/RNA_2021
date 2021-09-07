@@ -36,8 +36,6 @@ Connecting and properly using a cloud computing cluster at the CBW [here](https:
 
 # Day 1 <a id="day1"></a>
 
-**For all days please refer to content on [rnabio.org](https://rnabio.org/).**
-
 ##  Welcome
 
   *<font color="#827e9c">Rachade/Francis</font>*

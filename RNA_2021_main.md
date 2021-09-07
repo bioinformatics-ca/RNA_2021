@@ -125,6 +125,10 @@ Connecting and properly using a cloud computing cluster at the CBW [here](https:
  [Differential Expression](https://rnabio.org/module-03-expression/0003/03/01/Differential_Expression/)
  
  [DE Visualization](https://rnabio.org/module-03-expression/0003/04/01/DE_Visualization/)
+ 
+ [Batch Correction](https://rnabio.org/module-03-expression/0003/05/01/Batch-Correction/)
+ 
+ [DE Pathway Analysis] (https://rnabio.org/module-03-expression/0003/06/01/DE_Pathway_Analysis/)
 
 ## Module 4 - Alignment Free Analysis
 

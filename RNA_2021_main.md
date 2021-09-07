@@ -140,7 +140,3 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 [rnabio.org](https://rnabio.org/)
 
 ***
-## Survey
-
-
-***

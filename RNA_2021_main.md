@@ -54,7 +54,7 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 ### Module 1 Lab
 
 
-  [Installation](https://rnabio.org/module-00-setup/0000/09/01/Installation/)
+  [Installation](https://rnabio.org/module-00-setup/0000/10/01/Installation/)
   
   [Reference Genomes](https://rnabio.org/module-01-inputs/0001/02/01/Reference_Genomes/)
   

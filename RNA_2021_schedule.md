@@ -1,6 +1,6 @@
 ---
 layout: tutorial_page
-permalink: /RNA_20201_schedule
+permalink: /RNA_2021_schedule
 title: RNA-seq Analysis
 header1: Workshop Pages for Students
 header2: RNA-seq Analysis 2021

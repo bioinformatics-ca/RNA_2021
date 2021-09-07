@@ -52,7 +52,7 @@ Meet your faculty [here](https://docs.google.com/document/d/1e2IKV41hhaa4F01rUEz
 [Indexing mini lecture](https://drive.google.com/file/d/1oes3hjs2KF8zGhmo4Lw46X4vB99Tx0eg/view?usp=sharing)
 
 ### Module 1 Lab
-
+  [Log into AWS](https://rnabio.org/module-00-setup/0000/07/01/Log_into_AWS/)
 
   [Installation](https://rnabio.org/module-00-setup/0000/10/01/Installation/)
   
